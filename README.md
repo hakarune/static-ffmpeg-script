@@ -16,3 +16,5 @@ How-To:
 * run `chmod +x install-ffmpeg`
 * run script `sudo sh install-ffmpeg`
 * Done
+
+Please feel free to streamline and simplify this code.
