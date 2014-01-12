@@ -7,7 +7,7 @@ This finds and installs the most recent (within past 60 days) static build of ff
 
 If there is not a recent static build within past 60 days, script will fail (working on solution).
 
-Original script by jonnyboy on nzedb.com forums, modified to work on OMV. 
+Original script by jonnyboy on nzedb.com forums [http://nzedb.com/index.php?topic=683.0], modified to work on OMV. 
 
 After this downloads and extracts tar file it moves required files to correct location for global use (/usr/bin), then it removes leftover files.
 
