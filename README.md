@@ -13,7 +13,7 @@ After this downloads and extracts tar file it moves required files to correct lo
 
 How-To:
 * Download install-ffmpeg script
-* run `chmod +x install-ffmpeg`
+* run `chmod +x install-ffmpeg.sh`
 * run script `sudo sh install-ffmpeg`
 * Done
 
